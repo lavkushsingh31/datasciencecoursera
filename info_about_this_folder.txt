@@ -1,0 +1,1 @@
+This repository/folder was dreated as a part of learning process of R language in R studio.
